@@ -1,6 +1,6 @@
 # LitElement
 
-- Using lit-heml as templating Engine
+- Using lit-html as templating Engine
 - With and without Shadow-DOM usable
 - very lightweight: `version v2.0.0-rc.2: 5.471 Byte`
 - Enables the Creation of lightweight Components
